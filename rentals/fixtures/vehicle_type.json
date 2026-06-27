@@ -1,0 +1,23 @@
+[
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Vehicle Type",
+  "modified": "2026-06-26 16:03:39.143568",
+  "name": "SUV"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Vehicle Type",
+  "modified": "2026-06-26 16:03:47.476623",
+  "name": "Sedan"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Vehicle Type",
+  "modified": "2026-06-26 16:03:56.799749",
+  "name": "Hatchback"
+ }
+]
